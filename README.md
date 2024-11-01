@@ -2,7 +2,7 @@
 
 ---
 
-### 🤖 Chat with an AI Model
+### 💬 ChatBot 
 
 
 
